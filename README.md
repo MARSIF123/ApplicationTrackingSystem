@@ -32,19 +32,19 @@ Through this project, we aimed to bridge the gap between students and administra
 ![image](https://github.com/user-attachments/assets/0c7ca2a9-a003-4e7c-a110-5611d3bc152e)
 
 ## Tools:
-Visual Studio Code 
-Microsoft Visio
-MySQL
-MySQL Workbench
-TomEE Server
-NetBeans
+Visual Studio Code ,
+Microsoft Visio, 
+MySQL, 
+MySQL Workbench, 
+TomEE Server, 
+NetBeans, 
 
 ## Technologie
-HTML, CSS
-JavaScript 
-ReactJS
-React Native
-Java
+HTML, CSS, 
+JavaScript , 
+ReactJS, 
+React Native, 
+Java, 
 
 
 
